@@ -21,6 +21,11 @@ https://aba5sdmaaaaaaaamibyasmmfoav3v.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20-WC-Prime",World Cup Eng Prime Video
 https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/tgcrfjcgia/out/v1/7296f026409c4e9ba8844a238628f9ad/cenc.mpd
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_175752.jpg" group-title="Sports",Copa America
+https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Sports",Star Sports 1 HD 
 https://port.denver1769.in/oplx2.php?id=109987
 
