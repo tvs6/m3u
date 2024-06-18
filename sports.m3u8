@@ -51,7 +51,10 @@ https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19856
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://bokulsports.com/upload/channel/20240403_142724.jpg" group-title="SSC",SSC1
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcfc55359e24bd7ad1c5560a96ddd3c:b5dcf721ab522af92a9d3bf0bd55b596
+#EXTINF:-1 tvg-id=ts1070 tvg-logo="https://bokulsports.com/upload/channel/20240403_143035.jpg" group-title="SSC",SSC2
+https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
 
 
