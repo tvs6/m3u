@@ -41,13 +41,17 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="Bangladesh",Bangla Vision
 https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" group-title="Bangladesh",ATN Bangla
+https://livess.ncare.live/live-orgin/atnbd-8-org.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/9c9b0d26-e64e-4ec8-abe6-562390b00b85_180x180_18e8601b-aa29-4df7-9c76-370ec81b70c4.png" group-title="Bangladesh",ATN Bangla UK
+https://livess.ncare.live/live-orgin/atnbanglauk-off.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/48e398dd-50d4-40b0-8e26-4a5170faf8c6_180x180_greentv.png" group-title="Bangladesh",Green TV
+https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="Bangladesh",Ekhon TV
+https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
 
 
