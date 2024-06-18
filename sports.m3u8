@@ -17,6 +17,13 @@ https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/l
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/web_thumbnail/1718274580-EURO-LIVE-1280-.png" group-title="T Sports",Tsports 02
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-02/master_1080.m3u8
 
+#EXTINF:-1 tvg-logo="https://image.pixahunt.com/graphics/thumb/Pixahunt-9f8f172776a1a08367297e7d525d44d8.webp" group-title="Bangladesh",Somoy tv
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1105b85e6db6214e686e462206ed86ec:59d851187354b65fa2d14829046893ef
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://i.ibb.co/9GPTZ2z/Screenshot-2024-06-03-114018.png" group-title="T20-WC-Prime",World Cup Hindi Prime Video
