@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Toffee",Toffee EN 
-https://t.ly/TOFFEE-EN1/Zubayer_Op.m3u8
+https://retosbd.com/toffe/master.php?id=match-1
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Toffee",Toffee BN 
-https://t.ly/TOFFEE-BN1/Zubayer_Op.m3u8
+https://retosbd.com/toffe/master.php?id=match-2
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Toffee",Toffee EN 2 
-https://t.ly/TOFFEE-EN2/Zubayer_Op.m3u8
+https://retosbd.com/toffe/master.php?id=match-3
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_415428001717680117.png" group-title="Toffee",Toffee BN 2 
-https://t.ly/TOFFEE-BN2/Zubayer_Op.m3u8
+https://retosbd.com/toffe/master.php?id=match-4
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/web_thumbnail/1718274548-LIVE.jpg" group-title="T Sports",Tsports 01
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
