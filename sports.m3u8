@@ -26,15 +26,20 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://scontent.fjsr17-1.fna.fbcdn.net/v/t39.30808-6/339905431_4479237312199884_6573605484441009443_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHJDElcx0DMf5vEnGMOOtbJhG3yphigOh2EbfKmGKA6HTOIt35d8ZH5QhZV-ciA4x6H2VKEFUdyNZvg-1S0wV28&_nc_ohc=8-exG5nDteAQ7kNvgFEqQ42&_nc_ht=scontent.fjsr17-1.fna&oh=00_AYBy2f1Oc_Z--JqEa3wgc8G-B-ZB74INbasd1qz1x-tbWQ&oe=6677824F" group-title="Bangladesh",AB TV
 https://livess.ncare.live/live-orgin/abtvusa.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx5upZatRZMgrZ8OCczTdbQagdxezQZVMKAQ&s" group-title="Bangladesh",Biswa Bangla 24
+https://livess.ncare.live/live-orgin/biswabanglatv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJw9-rp7xxYXUHa8ixogcpnveQre5C2okbSw&s" group-title="Bangladesh",Canada TV
+https://livess.ncare.live/live-orgin/atvcanada.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/1200px-Rtv_bangladesh.svg.png" group-title="Bangladesh",RTV
+https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w1297092556.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/e9c06234-edca-411b-bcf6-eace5c3b118a_180x180_57f3b595-85c1-4a51-a209-b26f3d492ee9.png" group-title="Bangladesh",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-
-
-
-
-
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/ae1abdc0-299e-4e38-a379-03cf02755414_180x180_f8b871aa-e538-4f02-a877-e30c966dbc30.png" group-title="Bangladesh",Bangla Vision
+https://livess.ncare.live/live-orgin/banglav000.stream/chunks.m3u8
 
 
 
