@@ -147,14 +147,18 @@ https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_175752.jpg" group-title="Sports",Copa America
 https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Sports",Star Sports 1 HD 
+#EXTINF:-1 tvg-logo="https://epanelbd.pw/upload/images/20240318_220950.jpg" group-title="Sports",Star Sports 1 HD 
 https://port.denver1769.in/oplx2.php?id=109987
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Star_Sports_Network.png/440px-Star_Sports_Network.png" group-title="Sports",Star Sports 2 HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjpsCwohEnTBneBaHxGUStKs_LmtZtUbuhMg&s" group-title="Sports",Star Sports 2 HD
 https://port.denver1769.in/oplx2.php?id=109988
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/900/1507600280/1134.png" group-title="Sports",Sky Cricket FHD
+#EXTINF:-1 tvg-logo="https://epanelbd.pw/upload/sky%20sports/20240321_125043.jpg" group-title="Sports",Sky Cricket FHD
 http://public.iptv18.tech/push.php?id=5770
+
+
+#EXTINF:-1 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/20240315_082141.jpg" group-title="Sports",Willow
+http://public.iptv18.tech/tata.php?id=12169
 
 #EXTINF:-1 tvg-logo="https://epanelbd.pw/upload/images/20240319_070635.jpg" group-title="Sports",Willow Xtra
 http://public.iptv18.tech/push.php?id=22153
@@ -163,8 +167,6 @@ http://public.iptv18.tech/push.php?id=22153
 http://public.iptv18.tech/push.php?id=24016
 
 
-#EXTINF:-1 tvg-logo="https://mgpindia.com/wp-content/uploads/2021/10/willow-logo.jpg" group-title="Sports",Willow
-http://public.iptv18.tech/tata.php?id=12169
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Informative",Discovery HD Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
