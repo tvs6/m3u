@@ -53,6 +53,24 @@ https://livess.ncare.live/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/bf319d98-d1a1-4df4-8f42-ee33b342c0d9_180x180_Ekhon-tv.jpg" group-title="Bangladesh",Ekhon TV
 https://livess.ncare.live/live-orgin/globaltv.stream/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/f71d343e-e574-4599-bed6-f622c2a6b741_180x180_0fb5d763-281f-4ed3-8c05-62aa33dfd0c2.png" group-title="Bangladesh",DBC News
+https://livess.ncare.live/live-orgin/dbcnews.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrHvwZPaaoSzYVOXTvj1idU9Xz5yWh1EfjDw&s" group-title="Bangladesh",NAN TV
+https://livess.ncare.live/live-orgin/nantv.stream/chunks.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
