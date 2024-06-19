@@ -187,7 +187,13 @@ http://public.iptv18.tech/push.php?id=24016
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png" group-title="Informative",Discovery HD Multi Audio
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Informative" group-title="",Travel XP HD Bangla
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png" group-title="Informative",National Geographic HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/national-geographic-hd/index.ts
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11631-j9k0ndjc-v1/imageContent-11631-j9k0ndjc-m1.png" group-title="Informative",Nat Geo Wild HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/nat-geo-wild-hd/index.ts
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png" group-title="Informative",Travel XP HD Bangla
 https://api.himel-op.top/Join-Telegram-@HimelOP_Official/ns5.m3u8?id=19856
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
