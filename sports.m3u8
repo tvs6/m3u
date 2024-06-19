@@ -122,13 +122,29 @@ https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=maasranga
 #EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="Bangladesh", SA TV
 https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sa_tv
 
-#EXTINF:-1 tvg-logo="https://edge01.iptv.digijadoo.net/static/sa_tv.png" group-title="Bangladesh", SA TV
-https://bdixtv247.techpriyo.com/m3u/jadolist5.php?id=sa_tv
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/STJHD_Thumbnail-v3/STJHD_Thumbnail.png" group-title="India", Star Jalsha HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/star-jalsha-hd/index.ts
 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11514-j9jtp5tk-v1/imageContent-11514-j9jtp5tk-m2.png" group-title="India", Jalsha Movies HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/jalsha-movies-hd/index.ts
 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11970-j9luk5ag-v1/imageContent-11970-j9luk5ag-m1.png" group-title="India", Zee Bangla HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/zee-bangla-hd/index.ts
 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-75-j5fikj0o-v1/imageContent-75-j5fikj0o-m1.png" group-title="India", Colors Bangla
+https://tplay.dinesh29.com.np/live/tataplay-universal/colors-bangla/index.ts
 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-94-j5fjveio-v3/imageContent-94-j5fjveio-m2.png" group-title="India", SONY AATH
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-aath/index.ts
 
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-243-j5fyl2f4-v3/imageContent-243-j5fyl2f4-m4.png" group-title="India", SONY MAX HD
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-hd/index.ts
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="India", SONY MAX 2
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-2/index.ts
+
+#EXTINF:-1 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-402-j5jq1gko-v3/imageContent-402-j5jq1gko-m4.png" group-title="India", SONY MAX 2
+https://tplay.dinesh29.com.np/live/tataplay-universal/sony-max-2/index.ts
 
 
 
