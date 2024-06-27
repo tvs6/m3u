@@ -1,15 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300097/logo/240x240/mobile_logo_963886001717054413.png" group-title="Toffee",Toffee EN 
-https://retosbd.com/toffe/master.php?id=match-1
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-1
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png" group-title="Toffee",Toffee BN 
-https://retosbd.com/toffe/master.php?id=match-2
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-2
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300099/logo/240x240/mobile_logo_332351001717400403.png" group-title="Toffee",Toffee EN 2 
-https://retosbd.com/toffe/master.php?id=match-3
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-3
 
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/300100/logo/240x240/mobile_logo_415428001717680117.png" group-title="Toffee",Toffee BN 2 
-https://retosbd.com/toffe/master.php?id=match-4
+https://fifabd.xyz/JOIN@TGxRANAPK33/play.m3u8?id=match-4
 
 #EXTINF:-1 tvg-logo="https://image.tsports.com/images/web_thumbnail/1718274548-LIVE.jpg" group-title="T Sports",Tsports 01
 https://hdstreamz.vip/tsportshd/stream.php?stream=https://live-cdn.tsports.com/live-01/master_1080.m3u8
@@ -162,6 +162,50 @@ https://aba5sdmaaaaaaaamkycwliah6buj4.otte.live.cf.ww.aiv-cdn.net/pdx-nitro/live
 #KODIPROP:inputstream.adaptive.license_key=00368000eaecbeeafd84c05b3b8243af:8f84185910e18ae0ca8a45004625a000
 #EXTINF:-1 tvg-id=ts1070 tvg-logo="https://bokulsports.com/upload/channel/Tv%20logo/NewFolder/20240603_175752.jpg" group-title="Sports",Copa America
 https://linear311-it-dash1-prd-akp2.cdn13.skycdp.com/016a/31917/FHD/skysport251/master.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00053ac1e9b1231eed3eb4e3540b3ae1:0f03d8541826af3d9acbac975d751165
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEHVTrjKaEpoDWahCVkuwl9deMl3pBrqx9Q&s" group-title="Sports",Sky sports cricket
+https://skytest.starlive.workers.dev/https://linear007-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportscricket)/manifest_720-120.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005403920c26e3aa0c4d81338d2690e:f0dfa2c26f12eaf2c9b3c5a4a4f15a86
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://archive.org/download/SkySportsMainEvent_201708/sky%20sports%20main%20event.png",Sky sports Main Event
+https://skytest.starlive.workers.dev/https://linear001-gb-dash1-prd-ll.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsmainevent)/manifest_720.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00058250a3379de8bc837253d41fb434:f0dfa2c26f12eaf2c9b3c5a4a4f15a86
+#EXTINF:-1 tvg-id="ts246" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRbcv4ShM6sc161Ht_KXD_zt5cOpvK41miRA&s",Sky sports Football
+https://skytest.starlive.workers.dev/https://linear019-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_120/Live/channel(skysportsfootball)/manifest_720-120.mpd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://epanelbd.pw/upload/images/20240318_220950.jpg" group-title="Sports",Star Sports 1 HD 
 https://port.denver1769.in/oplx2.php?id=109987
