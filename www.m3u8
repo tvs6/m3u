@@ -1,7 +1,19 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:10
 
-#EXTINF:39.009,
+#EXTINF:390.009,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:400.009,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:800.003,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:500.009,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:400.009,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:400.003,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:390.009,
 http://xtv.ooo:8080/live/719865/988111/219689.ts
 #EXTINF:40.009,
 http://xtv.ooo:8080/live/719865/988111/219689.ts
@@ -13,7 +25,11 @@ http://xtv.ooo:8080/live/719865/988111/219689.ts
 http://xtv.ooo:8080/live/719865/988111/219689.ts
 #EXTINF:40.003,
 http://xtv.ooo:8080/live/719865/988111/219689.ts
-#EXTINF:39.009,
+#EXTINF:400.009,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:400.003,
+http://xtv.ooo:8080/live/719865/988111/219689.ts
+#EXTINF:390.009,
 http://xtv.ooo:8080/live/719865/988111/219689.ts
 #EXTINF:40.009,
 http://xtv.ooo:8080/live/719865/988111/219689.ts
