@@ -3,6 +3,10 @@
 #EXT-X-MEDIA-SEQUENCE:49907
 #EXT-X-TARGETDURATION:13
 #EXTINF:9.000,
-http://iptvtree.net:8080/live/F18819/6eb39c7d/269.ts
+https://d7.hamaradilhai.com:999/hls/t08-839.ts
 #EXTINF:6.000,
-http://iptvtree.net:8080/live/F18819/6eb39c7d/269.ts
+https://d7.hamaradilhai.com:999/hls/t08-840.ts
+#EXTINF:6.000,
+https://d7.hamaradilhai.com:999/hls/t08-841.ts
+#EXTINF:6.000,
+https://d7.hamaradilhai.com:999/hls/t08-842.ts
