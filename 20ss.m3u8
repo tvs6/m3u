@@ -3,13 +3,5 @@
 #EXT-X-TARGETDURATION:10
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:10,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/125442.ts
-#EXTINF:10,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/125442.ts
-#EXTINF:10,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/125442.ts
-#EXTINF:10,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/125442.ts
-#EXTINF:10,
-http://tv.cloudcdn.me/live/00:1A:79:A4:26:62/4280/125442.ts
+http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:B7:2F:EA
 #EXT-X-ENDLIST
